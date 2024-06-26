@@ -1,5 +1,5 @@
 # Customer Lifetime Value
-A project that uses the XGBoost Regressor and CLassifier to predict the amount customers will spend in a given time period, and the probability of them spending.
+A project that uses the XGBoost Regressor and Classifier to predict the amount customers will spend in a given time period, and the probability of them spending.
 
 ## Motivation
 This project was created as an attempt to understand and use XGBoost models in business contexts. 
