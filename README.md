@@ -23,13 +23,13 @@ A breakdown of the dataset is as follows:
 
 ## Methodology
 1. Exploratoy data analysis.
-2. Time splitting and feature engineering
-   i. Time series data, so needed to split the dates as feature and target.
-   ii. XGBoost requires some amount of feature engineering to function well - which is performed in this step.
-3. Model training and evaluation
-4. Understanding feature importance
-5. Saving the models and outputs (csv, and pickle files)
-6. Business questions answer attempt
+2. Time splitting and feature engineering.
+   * Time series data, so needed to split the dates as feature and target.
+   * XGBoost requires some amount of feature engineering to function well - which is performed in this step.
+4. Model training and evaluation.
+5. Understanding feature importance.
+6. Saving the models and outputs (csv, and pickle files).
+7. Business questions answer attempt.
 
 ## Future works
 Will attempt to create a Dash app/applet that allows users to interact with the dataset. The goal here is if this applet was created for business stakehlders, they would be able to make use of the dataset without needing to touch the code.
