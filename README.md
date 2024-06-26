@@ -32,4 +32,5 @@ A breakdown of the dataset is as follows:
 7. Business questions answer attempt.
 
 ## Future works
-Will attempt to create a Dash app/applet that allows users to interact with the dataset. The goal here is if this applet was created for business stakehlders, they would be able to make use of the dataset without needing to touch the code.
+1. Will attempt to create a Dash app/applet that allows users to interact with the dataset. The goal here is if this applet was created for business stakehlders, they would be able to make use of the dataset without needing to touch the code.
+2. Will create a .py of the notebook if it's necessary for the Dash app/applet to run.
